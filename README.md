@@ -1,0 +1,2 @@
+# WordNet
+illustration for students
